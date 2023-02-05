@@ -1,6 +1,6 @@
 # 14-SHintereder-MyExpWB
 
-Kurzbeschreibung: Man kann einen Weihnachtsbaum mit so vielen Kugeln wie man mag schmücken.  
+Kurzbeschreibung: Man kann einen Weihnachtsbaum mit Weihnachtskugeln schmücken.  
 Unity Version: 2020.3.18f1
 Visualstudio Version: 2022
 3 syntaktische Elemente: Switch Case, Arrays, If Statements
